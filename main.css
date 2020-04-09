@@ -1,0 +1,427 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+}
+
+
+/* END CSS RESET */
+
+
+
+.anchor {
+  display: block;
+  position: relative;
+  top: -12vw;
+  visibility: hidden;
+}
+
+body {
+  background-color: #b5e4fa;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.site-navigation {
+  color: #050a0fdc;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.site-navigation a,
+.site-navigation a:visited {
+  color: #4379c0;
+}
+
+.site-navigation a:hover,
+.site-navigation a:active {
+  color: #050a0fdc;
+}
+
+img {
+  align-self: center;
+  flex-basis: 26.75vw;
+  height: 33.75vw;
+  object-fit: cover;
+  object-position: 50% 20%;
+  
+}
+
+h1 {
+  font-size: 6.25vw;
+}
+
+h2 {
+  color: #4379c0;
+  font-size: 3.5vw;
+}
+
+h3 {
+  font-size: 3.5vw;
+  margin-bottom: 2vw;
+}
+
+.top-space {
+  height: 14.5vw;
+}
+
+.header {
+  background-color: #f0faff;
+  display: flex;
+  height: auto;
+  justify-content: space-around;
+  position: fixed;
+  width: 100vw;
+  padding: 1vw 1vw 1vw;
+  z-index: 10;
+
+}
+
+.header-titles {
+  flex-basis: 65vw;
+  flex-grow: 1;
+  text-align: center;
+}
+
+.header-titles h1 {
+  position: absolute;
+  left: 22vw;
+  top: 4.5vw;
+}
+
+.header-titles h2 {
+  position: absolute;
+  left: 17vw;
+}
+
+.header-navigation {
+  flex-basis: 25vw;
+}
+
+.site-navigation li {
+  font-size: 2.25vw;
+  line-height: 2.5vw;
+}
+
+.container {
+  align-content: center;
+  padding: 0 2vw 2vw;
+  width: 70vw;
+}
+
+.container h4 {
+  font-size: 1.75vw;
+  line-height: 2.25vw;
+  margin-bottom: 0.5vw;
+}
+
+.container ul {
+  margin-bottom: 1.75vw;
+}
+
+.container p,
+.container li {
+  color: #050a0fdc;
+  font-size: 1.25vw;
+  line-height: 2.25vw;
+}
+
+.home {
+  justify-content: center;
+  display: flex;
+}
+
+.about-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.about-content div {
+  margin: 0 1.2vw 0;
+}
+
+.about-summary {
+  flex: 1;
+  text-align: right;
+}
+
+.about-records {
+  flex: 2;
+}
+
+.about-records li {
+  list-style-type: disc;
+  list-style-position: inside;
+  margin-left: 2vw;
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-content {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  width: 60vw;
+}
+
+.container-heading {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.container-heading h3 {
+  align-self: flex-start;
+}
+
+.container-heading hr {
+  border: 1px solid #050a0f80;
+  flex-grow: 1;
+  margin: 0 1.25vw 0;
+  position: relative;
+  top: 1vw;
+  flex-basis: 37vw;
+}
+
+.footer p {
+  color: #6c9db68a;
+  font-size: 0.75vw;
+  line-height: 1vw;
+  margin: 2vw 0 2vw;
+  text-align: center;
+  width: 100vw;
+}
+
+.topnav {
+  visibility: hidden;
+  height: 0;
+}
+
+
+
+
+
+
+/* BEGIN MOBILE STYLING */
+
+@media (max-width: 600px) {
+  .top-space {
+    height: 27vw;
+  }
+  
+  .header {
+    flex-direction: column;
+  }
+
+  .header {
+    height: 19vw;
+  }
+
+  .header-titles {
+    flex-basis: 12vh;
+  }
+
+  .header-titles h1 {
+    font-size: 9.5vw;
+    left: 5vw;
+    top: 9vw;  
+  }
+
+  .header-titles h2 {
+    font-size: 7vw;
+    left: 12vw;
+    top: 2vw;  
+  }
+
+  .header-navigation {
+    align-self: center;
+    visibility: hidden;
+    flex-basis: 0;
+  }
+
+  img {
+    flex-basis: 53.5vw;
+    height: 67.5vw;
+  }
+
+  .container,
+  .contact-content {
+    width: 85vw;
+  }
+
+  .about-content {
+    flex-direction: column;
+  }
+
+  .about-summary p {
+    margin: 0 0 5vh;
+  }
+
+  .container h3 {
+    align-self: center;
+    font-size: 6vh;
+    line-height: 8vh;
+  }
+
+  .container h4 {
+    font-size: 4vh;
+    line-height: 7vh;
+  }
+
+  .container p {
+    font-size: 3vh;
+    line-height: 6vh;
+    text-align: center;
+  }
+
+  .container li {
+    font-size: 3vh;
+    line-height: 6vh;
+  }
+
+  .container-heading {
+    flex-direction: column;
+  }
+    
+  .container-heading hr {
+    flex-basis: 10vh;
+    order: 1;
+    transform: rotate(90deg);
+    padding: 0;
+    margin: 0;
+  }
+
+  .container-heading h3 {
+    order: 2;
+  }
+
+  .footer p {
+    font-size: 2vh;
+    line-height: 3vh;
+    margin: 3vh 0 3vh;
+  }
+
+
+
+
+
+
+
+    /* Style the navigation menu */
+  .topnav {
+    overflow: hidden;
+    background-color: #151a1f;
+    height: unset;
+    position: fixed;
+    top: 21vw;
+    right: 0;
+    visibility: visible;
+    z-index: 12;
+  }
+
+  /* Hide the links inside the navigation menu (except for logo/home) */
+  .mobile-navigation {
+    display: none;
+  }
+
+  .mobile-navigation a {
+    border-top: 3px solid #f0faff;
+  }
+
+  /* Style navigation menu links */
+  .topnav a {
+    color: #f0faff;
+    padding: 2.1vw 2.4vw;
+    text-align: center;
+    text-decoration: none;
+    font-size: 5vw;
+    display: block;
+  }
+
+  /* Style the hamburger menu */
+  .topnav .icon {
+    background: #151a1f;
+    display: block;
+    position: fixed;
+    right: 0;
+    top: 11.9vw;
+    width: 5vw;
+    z-index: 11;
+  }
+
+  .topnav a:hover {
+    background-color: #f0faff;
+    color: black;
+  }
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

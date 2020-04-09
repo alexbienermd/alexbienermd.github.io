@@ -1,0 +1,31 @@
+<!-- SCRIPT TO DECLARE FUNCTION TO TOGGLE NAVIGATION MENU DISPLAY ON MOBILE -->
+<script>
+  function toggleMobileNavigationMenu() {
+    let links = document.getElementById("mobile-navigation");
+    if (links.style.display === "block") {
+      links.style.display = "none";
+    } else {
+      links.style.display = "block";
+    }
+  }
+</script>
+
+<!-- LOAD MOBILE MENU ICON -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- MOBILE NAVIGATION MENU -->
+<div class="topnav">
+<div class="mobile-navigation" id="mobile-navigation">
+<a href="/#home">HOME</a>
+<a href="/#about">ABOUT</a>
+<a href="/#contact">CONTACT</a>
+{% for post in site.posts %}
+<a href="{{ post.url }}">{{ post.title }}</a>
+{% endfor %}
+</div>
+
+<!-- ICON TO CALL FUNCTION TO TOGGLE NAVIGATION MENU DISPLAY ON MOBILE -->
+<a href="javascript:void(0);" class="icon" onclick="toggleMobileNavigationMenu()">
+<i class="fa fa-bars"></i>
+</a>
+</div>

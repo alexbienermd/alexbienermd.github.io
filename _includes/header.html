@@ -1,0 +1,21 @@
+<div class="header">
+  <div class="header-titles">
+    <h2>GASTROENTEROLOGIST</h2>
+    <h1>DR. ALEX BIENER, MD</h1>
+  </div>
+  
+  <div class="header-navigation">
+    <ul class="site-navigation">
+      <a href="/#home"><li>HOME</li></a>
+      <a href="/#about"><li>ABOUT</li></a>
+      <a href="/#contact"><li>CONTACT</li></a>
+      {% for post in site.posts %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+      
+    </ul>
+  </div>
+</div>
+  
