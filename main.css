@@ -253,6 +253,48 @@ h3 {
   height: 0;
 }
 
+.post-header {
+  background-color: #4379c0;
+  width: 100vw;
+  padding: 5vw 0 1vw;
+  position: relative;
+  top: -5vw;
+}
+
+.post-header h3 {
+  color: #f0faff;
+  font-size: 5vw;
+  text-align: center;
+}
+
+.post-container {
+  position: relative;
+  text-align: left;
+  top: -3vw;
+}
+
+.post-container h4 {
+  font-size: 3vw;
+  line-height: 4vw;
+}
+
+.post-container li {
+  border-top: 1px solid #4379c077;
+  font-size: 1.75vw;
+  line-height: 3vw;
+  margin-top: 1vw;
+  padding-top: 1vw;
+}
+
+.post-container a {
+  color: #151a1f;
+}
+
+.post-container a:hover,
+.post-container a:active {
+  color: #f0faff
+}
+
 
 
 
@@ -356,6 +398,35 @@ h3 {
     line-height: 3vh;
     margin: 3vh 0 3vh;
   }
+
+  .post-header {
+    top: -6vh;
+  }
+
+  .post-header h3 {
+    font-size: 6vh;
+    text-align: center;
+  }
+
+  .post-container {
+    text-align: center;
+    top: -4vh;
+    width: 80vw;
+  }
+    
+  .post-container h4 {
+    font-size: 4vh;
+    line-height: 7vh;
+  }
+  
+  .post-container li {
+    border-top: 1px solid #4379c077;
+    margin-top: 1vh;
+    padding-top: 1vh;
+    font-size: 3vh;
+    line-height: 4vh;
+  }
+  
 
 
 
