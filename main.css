@@ -481,6 +481,8 @@ h3 {
     position: fixed;
     right: 0;
     top: 11.9vw;
+    visibility: visible;
+    height: 5vw;
     width: 5vw;
     z-index: 17;
   }
