@@ -7,8 +7,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -19,7 +19,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -55,9 +55,11 @@ a:active {
 
 .anchor {
   display: block;
+	height: 0;
   position: relative;
-  top: -12vw;
+  top: -13vw;
   visibility: hidden;
+	width: 0;
 }
 
 body {
@@ -102,7 +104,7 @@ img {
   height: 33.75vw;
   object-fit: cover;
   object-position: 50% 20%;
-  
+
 }
 
 h1 {
@@ -276,7 +278,7 @@ h3 {
   align-self: center;
   margin: auto;
   position: relative;
-  text-align: left;
+  text-align: center;
   top: -3vw;
   width: 85vw;
 }
@@ -284,6 +286,7 @@ h3 {
 .post-container h4 {
   font-size: 3vw;
   line-height: 4vw;
+	margin-top: 5vw;
 }
 
 .post-container li {
@@ -295,13 +298,41 @@ h3 {
 }
 
 .post-container a {
-  color: #151a1f;
+	color: #0000ee;
 }
 
 .post-container a:hover,
 .post-container a:active {
   color: #f0faff
 }
+
+.sublist {
+	border-left: 1px dotted #4379c077;
+	border-right: 1px dotted #4379c077;
+	margin: auto;
+	padding: 0 2vw 0;
+	width: 70vw;
+}
+
+.sublist h4 {
+	color: #050a0fa0;
+	font-size: 2vw;
+  line-height: 3vw;
+	margin-top: 0;
+}
+
+.sublist a {
+	color: #0000eed7;
+	font-size: 1.5vw;
+  line-height: 2.25vw;
+}
+
+.sublist li {
+	border-top: 1px dotted #4379c077;
+}
+
+
+
 
 
 
@@ -311,10 +342,15 @@ h3 {
 /* BEGIN MOBILE STYLING */
 
 @media (max-width: 600px) {
+
+	.anchor {
+	  top: -14vh;
+	}
+
   .top-space {
     height: 27vw;
   }
-  
+
   .header {
     flex-direction: column;
   }
@@ -330,13 +366,13 @@ h3 {
   .header-titles h1 {
     font-size: 9.5vw;
     left: 5vw;
-    top: 9vw;  
+    top: 9vw;
   }
 
   .header-titles h2 {
     font-size: 7vw;
     left: 12vw;
-    top: 2vw;  
+    top: 2vw;
   }
 
   .header-navigation {
@@ -388,7 +424,7 @@ h3 {
   .container-heading {
     flex-direction: column;
   }
-    
+
   .container-heading hr {
     flex-basis: 10vh;
     order: 1;
@@ -406,7 +442,7 @@ h3 {
   }
 
   .post-header h3 {
-    font-size: 6vh;
+    font-size: 8vw;
     text-align: center;
   }
 
@@ -415,12 +451,13 @@ h3 {
     top: -4vh;
     width: 85vw;
   }
-    
+
   .post-container h4 {
-    font-size: 3.5vh;
-    line-height: 7vh;
+    font-size: 4.5vw;
+    line-height: 7vw;
+		margin-top: 7vh;
   }
-  
+
   .post-container li {
     border-top: 1px solid #4379c077;
     margin-top: 1vh;
@@ -429,13 +466,44 @@ h3 {
     line-height: 4vh;
   }
 
+	.post-container a {
+		color: #0000ee;
+		font-size: 4vw;
+		line-height: 6vw;
+	}
+
+	.sublist {
+		border-left: 1px dotted #4379c077;
+		border-right: 1px dotted #4379c077;
+		margin: auto;
+		padding: 0 2vw 0;
+		width: 70vw;
+	}
+
+	.sublist h4 {
+		color: #050a0fa0;
+		font-size: 3.5vw;
+		line-height: 6vw;
+		margin-top: 0vh;
+	}
+
+	.sublist a {
+		color: #0000eed7;
+		font-size: 3.25vw;
+		line-height: 4vw;
+	}
+
+	.sublist li {
+		border-top: 1px dotted #4379c077;
+	}
+
   .footer p {
     font-size: 2vh;
     line-height: 3vh;
     margin: 3vh 0 3vh;
   }
 
-  
+
 
 
 
@@ -491,19 +559,5 @@ h3 {
     background-color: #f0faff;
     color: black;
   }
-  
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-

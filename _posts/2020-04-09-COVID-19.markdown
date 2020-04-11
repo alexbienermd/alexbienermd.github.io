@@ -3,6 +3,7 @@ layout: post
 title:  "COVID-19 RESOURCES"
 date:   2020-04-09 12:00:00 -0400
 categories: COVID-19
+permalink: COVID-19
 ---
 
 <div class="post-header">
@@ -10,6 +11,35 @@ categories: COVID-19
 </div>
 
 <div class="post-container">
+
+  <h4>Current best COVID-19 information from the Centers for Disease Control and Prevention (CDC)</h4>
+  <ul>
+    <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html">CDC - Coronavirus Disease 2019 (COVID-19)</a></li>
+  </ul>
+
+  <h4>Here are some good, quick videos summarizing COVID-19</h4>
+
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=LH-8zhCgxtQ">Excellent summary of COVID-19 situation as of 3/5/2020 by local physician Dr. Michal Tracz</a></li>
+    <li>
+      <ul class="sublist">
+        <h4>Websites mentioned in Dr. Tracz’s 3/5/10 video:</h4>
+        <li><a href="https://coronavirus.jhu.edu/map.html">Interactive COVID-19 Map by Johns Hopkins University</a></li>
+        <li><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports">World Health Organization (WHO) - COVID-19 Situation Reports</a></li>
+        <li><a href="https://www.worldometers.info/coronavirus">Worldometers - Live COVID-19 Data Tracking</a></li>
+        <li><a href="https://bnonews.com/index.php/2020/04/the-latest-coronavirus-cases">BNO News - Tracking Coronavirus: Map, Data, and Timeline</a></li>
+      </ul>
+    </li>
+    <li><a href="https://www.youtube.com/watch?v=NiwdyYnUgZM">Quick but excellent update as of 3/15/2020 by local physician Dr. Michal Tracz</a></li>
+    <li><a href="https://youtu.be/f6vtGrJLxX0">Another quick but excellent update as of 4/1/2020 by local physician Dr. Michal Tracz</a></li>
+  </ul>
+
+  <h4>Institute for Health Metrics and Evaluation (IHME)</h4>
+  <ul>
+    <li><a href="https://covid19.healthdata.org/projections">IHME - Modeling Coronavirus Spread (by Country or by US State)</a></li>
+    <li><a href="http://www.healthdata.org/acting-data/our-covid-19-forecasting-model-otherwise-known-chris-murray-model">I found this additional reference on the IHME website regarding Dr. Deborah Birx (White House Coronavirus Response Coordinator) discussing IHME</a></li>
+  </ul>
+
   <h4>New Jersey Department of Human Services</h4>
 
   <ul>
@@ -18,8 +48,3 @@ categories: COVID-19
   </ul>
 
 </div>
-
-
-
-
-
