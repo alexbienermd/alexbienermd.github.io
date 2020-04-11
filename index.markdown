@@ -35,9 +35,9 @@ layout: default
 
     <h4>INTERNSHIP AND RESIDENCY</h4>
     <ul>
-    <li>Mount Sinai Medical Center, Therapeutic Radiology, 1982 - 1983</li>
+    <li>Mount Sinai Medical Center, Transitional Internship, 1982 - 1983</li>
     <li>Beth Israel Medical Center, Internal Medicine, 1985 - 1987</li>
-    <li>Long Island Jewish Medical Center, Internal Medicine, 1983 - 1985</li>
+    <li>Long Island Jewish Medical Center, Obstetrics and Radiology, 1983 - 1985</li>
     </ul>
 
     <h4>FELLOWSHIP</h4>
@@ -76,7 +76,7 @@ layout: default
 
   <h4>E-MAIL</h4>
   <ul>
-    <li>alexbienermd@gmail.com</li>
+    <li><a href="mailto:alexbienermd@gmail.com">alexbienermd@gmail.com</a></li>
   </ul>
 
   </div>
