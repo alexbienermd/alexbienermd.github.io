@@ -286,6 +286,7 @@ h3 {
 .post-container h4 {
   font-size: 3vw;
   line-height: 4vw;
+	margin-bottom: 1vw;
 	margin-top: 5vw;
 }
 
@@ -293,8 +294,24 @@ h3 {
   border-top: 1px solid #4379c077;
   font-size: 1.75vw;
   line-height: 3vw;
-  margin-top: 1vw;
+  margin-top: 0;
   padding-top: 1vw;
+}
+
+.post-container p {
+	font-size: 1.5vw;
+	line-height: 1.75rem;
+	margin-top: 1rem;
+	text-align: left;
+}
+
+.post-container .paragraph-list-items {
+	border: none;
+	margin-left: 3vw;
+	margin-top: 0.75rem;
+	font-size: 1rem;
+	line-height: 1.5rem;
+	text-align: left;
 }
 
 .post-container a {
@@ -304,6 +321,10 @@ h3 {
 .post-container a:hover,
 .post-container a:active {
   color: #f0faff
+}
+
+.post-paragraph-container {
+	border-top: 1px solid #4379c077;
 }
 
 .sublist {
@@ -466,10 +487,21 @@ h3 {
     line-height: 4vh;
   }
 
+	.post-container p {
+		font-size: 3vh;
+		line-height: 5vh;
+	}
+
 	.post-container a {
 		color: #0000ee;
 		font-size: 4vw;
 		line-height: 6vw;
+	}
+
+	.post-container .paragraph-list-items {
+		margin-top: 2vh;
+		font-size: 3vh;
+		line-height: 5vh;
 	}
 
 	.sublist {
