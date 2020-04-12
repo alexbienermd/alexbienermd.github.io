@@ -71,6 +71,8 @@ permalink: COVID-19
 
       Self-monitor for symptoms, and because of distant risk of relapse seek re-evaluation if respiratory symptoms recur or worsen.
     </p>
+
+    <p class="disclaimer">The websites on this page are compiled for your convenience. Information on this website or any linked websites is not intended to substitute for medical advice from your primary care physician.</p>
   </div>
 
 </div>

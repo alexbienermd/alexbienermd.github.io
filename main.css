@@ -352,6 +352,12 @@ h3 {
 	border-top: 1px dotted #4379c077;
 }
 
+.post-container .disclaimer {
+	border-top: 1px solid #050a0f80;
+	margin-top: 3vw;
+	padding-top: 1vw;
+}
+
 
 
 
