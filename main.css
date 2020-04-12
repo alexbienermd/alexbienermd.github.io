@@ -394,22 +394,32 @@ h3 {
   }
 
   .header-titles h1 {
-    font-size: 9.5vw;
+    font-size: 9vw;
     left: 5vw;
     top: 9vw;
   }
 
   .header-titles h2 {
-    font-size: 7vw;
+    font-size: 6vw;
     left: 12vw;
     top: 2vw;
   }
 
   .header-navigation {
-    align-self: center;
-    visibility: hidden;
+    align-self: flex-end;
     flex-basis: 0;
+		margin: 0 1vw 0;
+		z-index: 200;
   }
+
+	.header-navigation li {
+		font-size: 4.5vw;
+		line-height: 5vw;
+	}
+
+	.header-navigation a:active {
+		color: #050a0fdc;
+	}
 
   img {
     flex-basis: 53.5vw;
