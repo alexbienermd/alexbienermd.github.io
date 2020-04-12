@@ -353,7 +353,7 @@ h3 {
 }
 
 .post-container .disclaimer {
-	border-top: 1px solid #050a0f80;
+	border-top: 1px dotted #050a0f80;
 	color: #050a0fdc;
 	margin: 3vw auto 0;
 	padding-top: 1vw;
