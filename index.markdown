@@ -14,7 +14,7 @@ layout: default
   <hr>
   </div>
 
-  
+
   <div class="about-content">
   <div class="about-summary">
     <p>Dr. Alexander Biener is an experienced physician with board certifications in gastroenterology and internal medicine. Dr. Biener strives for the "old-fashioned" personal approach to patient interaction while utilizing the most modern techniques. Dr. Biener always strives to understand the root causes of his patients' problems, knowing that making the correct diagnoses ensures effective treatments. Dr. Biener is an expert at endoscopic diagnosis and treatment, specializing in Barrett's esophagus and the removal of colon and gastric polyps.</p>
@@ -76,7 +76,7 @@ layout: default
 
   <h4>E-MAIL</h4>
   <ul>
-    <li><a href="mailto:alexbienermd@gmail.com">alexbienermd@gmail.com</a></li>
+    <li><a href="mailto:alexbienerWebmd@gmail.com">alexbienerWebmd@gmail.com</a></li>
   </ul>
 
   </div>
