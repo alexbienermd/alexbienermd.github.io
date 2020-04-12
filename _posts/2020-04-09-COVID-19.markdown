@@ -17,12 +17,6 @@ permalink: COVID-19
     <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html">CDC - Coronavirus Disease 2019 (COVID-19)</a></li>
   </ul>
 
-  <h4>Institute for Health Metrics and Evaluation (IHME)</h4>
-  <ul>
-    <li><a href="https://covid19.healthdata.org/projections">IHME - Modeling Coronavirus Spread (by Country or by US State)</a></li>
-    <li><a href="http://www.healthdata.org/acting-data/our-covid-19-forecasting-model-otherwise-known-chris-murray-model">I found this additional reference on the IHME website regarding Dr. Deborah Birx (White House Coronavirus Response Coordinator) discussing IHME</a></li>
-  </ul>
-
   <h4>Here are some good, quick videos summarizing COVID-19</h4>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=LH-8zhCgxtQ">Excellent summary of COVID-19 situation as of 3/5/2020 by local physician Dr. Michal Tracz</a></li>
@@ -39,40 +33,28 @@ permalink: COVID-19
     <li><a href="https://youtu.be/f6vtGrJLxX0">Another quick but excellent update as of 4/1/2020 by local physician Dr. Michal Tracz</a></li>
   </ul>
 
-  <h4>New Jersey Department of Human Services</h4>
-  <ul>
-    <li><a href="https://nj.gov/humanservices/coronavirus.html">Novel Coronavirus Information - updates regularly as new information is released</a></li>
-    <li><a href="https://www.nj.gov/humanservices/ddd/documents/covid19-temporary-service-modifications.pdf">Developmental Disabilities | COVID-19 Response | Temporary Service Modifications | 4/9/2020</a></li>
-  </ul>
-
   <h4>How to isolate yourself if you have tested positive or suspect you are ill</h4>
   <ul>
     <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html">CDC - If You Are Sick or Caring for Someone</a></li>
   </ul>
 
   <h4>When to discontinue isolation</h4>
-  <div class="post-paragraph-container">
-    <p>
-      As of 4/9/2020, the CDC & NJ Department of Health recommend the following:
-      People ill with COVID-19, whether just symptoms or have (+) swab test, who have Isolated and stayed home, ideally should have 2 negative swabs 24 hours apart; however, such testing is hard to come by.<br><br>
+  <ul>
+    <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/hcp/disposition-in-home-patients.html">CDC - Ending Home Isolation</a></li>
+  </ul>
 
-      For most persons with Covid 19, who will not have a swab test to determine if they are still contagious, can leave home Isolation if these 3 conditions are true:
-    </p>
-    <li class="paragraph-list-items">No fever for at least 72 hours (three full days of no fever without the use of any medicine that reduces fevers such as Tylenol, ibuprofen)</li>
-    <li class="paragraph-list-items">Other symptoms have improved (for example, when your cough or shortness of breath have improved)</li>
-    <li class="paragraph-list-items">At least 7 days have passed since your symptoms first appeared</li>
-    <p>
-      <br>
-      Before visiting elderly parents or immunosuppressed friends or family, know that the longer you can stay away from others, the better. 72 hours is the bare minimum, and you should remain in home isolation for up to a week after resolution of symptoms if you are able.<br><br>
+  <h4>Institute for Health Metrics and Evaluation (IHME)</h4>
+  <ul>
+    <li><a href="https://covid19.healthdata.org/projections">IHME - Modeling Coronavirus Spread (by Country or by US State)</a></li>
+    <li><a href="http://www.healthdata.org/acting-data/our-covid-19-forecasting-model-otherwise-known-chris-murray-model">Additional reference on the IHME website regarding Dr. Deborah Birx (White House Coronavirus Response Coordinator) discussing IHME</a></li>
+  </ul>
 
-      Work places will have their own ability to demand and or offer 1 o2 swab testing. They may require masks to be worn for a period of time. For instance, currently at the Valley Hospital, returnees wear facemasks at all times while in the healthcare facility until all symptoms are completely resolved or until 14 days after illness onset, whichever is longer, and are restricted from contact with severely immunocompromised patients (e.g., transplant, hematology-oncology) until 14 days after illness onset.<br><br>
+  <h4>New Jersey Department of Human Services</h4>
+  <ul>
+    <li><a href="https://nj.gov/humanservices/coronavirus.html">Novel Coronavirus Information - updates regularly as new information is released</a></li>
+    <li><a href="https://www.nj.gov/humanservices/ddd/documents/covid19-temporary-service-modifications.pdf">Developmental Disabilities | COVID-19 Response | Temporary Service Modifications | 4/9/2020</a></li>
+  </ul>
 
-      All returnees should continue to adhere to hand hygiene, respiratory hygiene, and cough etiquette per the CDC’s interim infection control guidance (e.g., cover nose and mouth when coughing or sneezing, dispose of tissues in waste receptacles).<br><br>
-
-      Self-monitor for symptoms, and because of distant risk of relapse seek re-evaluation if respiratory symptoms recur or worsen.
-    </p>
-
-    <p class="disclaimer">The websites on this page are compiled for your convenience. Information on this website or any linked websites is not intended to substitute for medical advice from your primary care physician.</p>
-  </div>
+  <p class="disclaimer">The websites on this page are compiled for your convenience. Information on this website or any linked websites is not intended to substitute for medical advice from your primary care physician.</p>
 
 </div>

@@ -76,7 +76,7 @@ layout: default
 
   <h4>E-MAIL</h4>
   <ul>
-    <li><a href="mailto:alexbienerWebmd@gmail.com">alexbienerWebmd@gmail.com</a></li>
+    <li><a href="mailto:alexbienerWEBmd@gmail.com">alexbienerWEBmd@gmail.com</a></li>
   </ul>
 
   </div>
