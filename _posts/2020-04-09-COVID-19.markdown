@@ -55,6 +55,11 @@ permalink: COVID-19
     <li><a href="https://www.nj.gov/humanservices/ddd/documents/covid19-temporary-service-modifications.pdf">Developmental Disabilities | COVID-19 Response | Temporary Service Modifications | 4/9/2020</a></li>
   </ul>
 
+  <h4>A fun and informative comic about COVID-19 modeling from FiveThirtyEight</h4>
+  <ul>
+    <li><a href="https://fivethirtyeight.com/features/a-comic-strip-tour-of-the-wild-world-of-pandemic-modeling/">A Comic Strip Tour Of The Wild World Of Pandemic Modeling</a></li>
+  </ul>
+
   <p class="disclaimer">The websites on this page are compiled for your convenience. Information on this website or any linked websites is not intended to substitute for medical advice from your primary care physician.</p>
 
 </div>
