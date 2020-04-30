@@ -11,6 +11,7 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
+	/* box-sizing: border-box; */
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -155,7 +156,9 @@ h3 {
 }
 
 .header-navigation {
-  flex-basis: 25vw;
+  flex-basis: 50vw;
+	margin-right: 2vw;
+	text-align: right;
 }
 
 .site-navigation li {
@@ -331,7 +334,7 @@ h3 {
 	border-left: 1px dotted #4379c077;
 	border-right: 1px dotted #4379c077;
 	margin: auto;
-	padding: 0 2vw 0;
+	padding: 0 2vw 1vw;
 	width: 60vw;
 }
 
@@ -361,6 +364,40 @@ h3 {
 	width: 70vw;
 }
 
+.drop-trigger::after {
+	border: 0.75vw solid;
+	border-color: #4379c0 transparent transparent;
+	content: "";
+	height: 0;
+	position: relative;
+	right: -0.5vw;
+	top: 2vw;
+	width: 0;
+}
+
+.dropdown:hover .drop-menu,
+.dropdown:active .drop-menu {
+	max-height: 100vh;
+}
+
+.drop-menu {
+	max-height: 0;
+	overflow: hidden;
+	padding: 0;
+	transition: all 0.5s ease-in-out;
+}
+
+.mobile-menu-checkbox {
+	display: none;
+}
+
+.mobile-menu-label {
+	display: none;
+}
+
+.dropdown .drop-trigger:hover {
+	color: #4379c0;
+}
 
 
 
@@ -372,6 +409,69 @@ h3 {
 /* BEGIN MOBILE STYLING */
 
 @media (max-width: 600px) {
+	.site-navigation {
+		max-height: 0;
+		overflow: hidden;
+	}
+
+	.drop-trigger {
+		display: none;
+	}
+
+	.drop-menu {
+		display: inline;
+	}
+
+	.mobile-menu-checkbox:checked ~ .site-navigation {
+		background-color: #d7f2ff;
+		max-height: 100vh;
+		padding: 2vw 0 2vw;
+		position: absolute;
+		right: 1vw;
+		text-align: center;
+		transition: all 0.5s ease-in-out;
+		top: 21vw;
+		width: 100vw;
+	}
+
+	.site-navigation li {
+		padding: 1vh 0 1vh;
+	}
+
+	.site-navigation .dropdown {
+		padding: 0 0 1vh;
+	}
+
+	.mobile-menu-label {
+		border: 1px solid #4379c077;
+		border-radius: 3vw;
+		color: #4379c0;
+		display: block;
+		font-family: 'Open Sans Condensed', sans-serif;
+		font-size: 6vw;
+		padding: 2vw;
+		position: absolute;
+		right: 2vw;
+		top: 3.5vh;
+		transition: all 0.5s ease-in-out;
+	}
+
+	.mobile-menu-checkbox ~ .mobile-menu-label:before {
+		content: "MENU";
+	}
+
+	.mobile-menu-checkbox:checked ~ .mobile-menu-label:before {
+		content: "";
+	}
+
+	.mobile-menu-checkbox:checked ~ .mobile-menu-label {
+		background-color: #d7f2ff;
+		transition: all 0.5s ease-in-out;
+	}
+
+	.mobile-menu-checkbox:checked ~ .mobile-menu-label:after {
+		content: "CLOSE";
+	}
 
 	.anchor {
 	  top: -14vh;
@@ -395,7 +495,7 @@ h3 {
 
   .header-titles h1 {
     font-size: 9vw;
-    left: 5vw;
+    left: 4vw;
     top: 9vw;
   }
 
@@ -483,6 +583,7 @@ h3 {
 
   .post-header h3 {
     font-size: 8vw;
+		line-height: 10vw;
     text-align: center;
   }
 
@@ -493,28 +594,34 @@ h3 {
   }
 
   .post-container h4 {
-    font-size: 4.5vw;
-    line-height: 7vw;
+    font-size: 4.5vh;
+    line-height: 5.5vh;
 		margin-top: 7vh;
   }
+
+	.post-container h4:first-child {
+		margin-top: 3.5vh;
+	}
+
 
   .post-container li {
     border-top: 1px solid #4379c077;
     margin-top: 1vh;
     padding-top: 1vh;
-    font-size: 3vh;
+    font-size: 2.5vh;
     line-height: 4vh;
   }
 
 	.post-container p {
-		font-size: 3vh;
-		line-height: 5vh;
+		font-size: 2.75vh;
+		line-height: 4.25vh;
+		text-align: center;
 	}
 
 	.post-container a {
 		color: #0000ee;
-		font-size: 4vw;
-		line-height: 6vw;
+		font-size: 2.75vh;
+		line-height: 4.25vh;
 	}
 
 	.post-container .paragraph-list-items {
@@ -533,19 +640,25 @@ h3 {
 
 	.sublist h4 {
 		color: #050a0fa0;
-		font-size: 3.5vw;
-		line-height: 6vw;
+		font-size: 3.5vh;
+		line-height: 4.5vh;
 		margin-top: 0vh;
 	}
 
 	.sublist a {
 		color: #0000eed7;
-		font-size: 3.25vw;
-		line-height: 4vw;
+		font-size: 2.5vh;
+		line-height: 4vh;
 	}
 
 	.sublist li {
 		border-top: 1px dotted #4379c077;
+	}
+
+	.post-container .disclaimer {
+		font-size: 2vh;
+		line-height: 3vh;
+		margin-top: 17vh;
 	}
 
   .footer p {
@@ -553,62 +666,3 @@ h3 {
     line-height: 3vh;
     margin: 3vh 0 3vh;
   }
-
-
-
-
-
-
-
-
-
-    /* Style the navigation menu */
-  .topnav {
-    overflow: hidden;
-    background-color: #151a1f;
-    height: unset;
-    position: fixed;
-    top: 21vw;
-    right: 0;
-    visibility: visible;
-    z-index: 12;
-  }
-
-  /* Hide the links inside the navigation menu (except for logo/home) */
-  .mobile-navigation {
-    display: none;
-  }
-
-  .mobile-navigation a {
-    border-top: 3px solid #f0faff;
-  }
-
-  /* Style navigation menu links */
-  .topnav a {
-    color: #f0faff;
-    padding: 2.1vw 2.4vw;
-    text-align: center;
-    text-decoration: none;
-    font-size: 5vw;
-    display: block;
-  }
-
-  /* Style the hamburger menu */
-  .topnav .icon {
-    background: #151a1f;
-    display: block;
-    position: fixed;
-    right: 0;
-    top: 11.9vw;
-    visibility: visible;
-    height: 5vw;
-    width: 5vw;
-    z-index: 17;
-  }
-
-  .topnav a:hover {
-    background-color: #f0faff;
-    color: black;
-  }
-
-}

@@ -1,21 +1,38 @@
 <div class="header">
-  
+
   <div class="header-titles">
     <h2>GASTROENTEROLOGIST</h2>
     <h1>DR. ALEX BIENER, MD</h1>
   </div>
 
   <div class="header-navigation">
+    <input type="checkbox" id="mobile-menu-checkbox" class="mobile-menu-checkbox">
+    <label for="mobile-menu-checkbox" class="mobile-menu-label mobile-only"></label>
+
     <ul class="site-navigation">
-      <a href="/#home"><li>HOME</li></a>
-      <a href="/#about"><li>ABOUT</li></a>
-      <a href="/#contact"><li>CONTACT</li></a>
-      {% for post in site.posts %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endfor %}
+      <li><a href="/#home">HOME</a></li>
+      <li><a href="/#about">ABOUT</a></li>
+      <li><a href="/#contact">CONTACT</a></li>
+      <li class="dropdown">
+        <a class="drop-trigger">COVID-19</a>
+
+        <ul class="drop-menu">
+          {% for post in site.posts %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endfor %}
+        </ul>
+
+      </li>
     </ul>
+
+    <!-- <ul class="site-navigation-supplemental">
+      <ul class="drop-menu">
+        {% for post in site.posts %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </ul> -->
+
   </div>
 
 </div>

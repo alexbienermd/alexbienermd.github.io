@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "COVID-19"
-date:   2020-04-09 12:00:00 -0400
+title:  "COVID-19 RESOURCES FOR PATIENTS"
+date:   2020-04-29 12:00:00 -0400
 categories: COVID-19
-permalink: COVID-19
+permalink: COVID-19-for-patients
 ---
 
 <div class="post-header">
@@ -58,6 +58,12 @@ permalink: COVID-19
   <h4>A fun and informative comic about COVID-19 modeling from FiveThirtyEight</h4>
   <ul>
     <li><a href="https://fivethirtyeight.com/features/a-comic-strip-tour-of-the-wild-world-of-pandemic-modeling/">A Comic Strip Tour Of The Wild World Of Pandemic Modeling</a></li>
+  </ul>
+
+  <h4>Browse safely!</h4>
+  <ul>
+    <p>One of the aims of this webpage is to suggest safe sites for browsing for coronavirus/COVID-19 information because there has been a proliferation of computer viruses and other malware attached to legitimate-looking websites. For instance, see the reference below discussing malware on websites mimicking real Johns Hopkins COVID-19 maps:</p>
+    <li><a href="https://krebsonsecurity.com/2020/03/live-coronavirus-map-used-to-spread-malware/">Live Coronavirus Map Used to Spread Malware</a></li>
   </ul>
 
   <p class="disclaimer">The websites on this page are compiled for your convenience. Information on this website or any linked websites is not intended to substitute for medical advice from your primary care physician.</p>
