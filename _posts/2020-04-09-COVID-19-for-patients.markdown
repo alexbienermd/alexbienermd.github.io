@@ -52,7 +52,7 @@ permalink: COVID-19-for-patients
   <h4>New Jersey COVID-19 Information Hub</h4>
   <ul>
     <li><a href="https://covid19.nj.gov/#live-updates">Live Updates - Cases and Trends in NJ</a></li>
-    <li><a href="https://www.state.nj.us/health/healthfacilities/documents/LTC_Facilities_Outbreaks_List.pdf">NJ Long Term Care Facilities with COVID-19 Cases - self-reported by facilities and subject to updates (PDF)</a></li>
+    <li><a href="https://www.state.nj.us/health/healthfacilities/documents/LTC_Facilities_Outbreaks_List.pdf">NJ Long Term Care Facilities with COVID-19 Cases - list of positive cases and deaths self-reported by facilities and subject to updates (PDF)</a></li>
   </ul>
 
   <h4>New Jersey Department of Human Services</h4>
