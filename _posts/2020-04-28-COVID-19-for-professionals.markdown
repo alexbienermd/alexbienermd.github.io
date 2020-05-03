@@ -29,7 +29,7 @@ permalink: COVID-19-for-professionals
   <ul>
     <li><a href="https://www.cms.gov/About-CMS/Agency-Information/Emergency/EPRO/Current-Emergencies/Current-Emergencies-page#skipNavTarget">CMS - Current Emergencies Page (see "Coronavirus")</a></li>
     <li><a href="https://www.cms.gov/about-cms/emergency-preparedness-response-operations/current-emergencies/coronavirus-press-releases">CMS - Coronavirus Press Releases</a></li>
-    <ul>
+    <ul class="sublist">
       <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html">"Coronavirus.gov is the source for the latest information about COVID-19 prevention, symptoms, and answers to common questions"</a></li>
       <li><a href="https://www.usa.gov/coronavirus">"USA.gov has the latest information about what the U.S. Government is doing in response to COVID-19."</a></li>
       <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2Findex.html">"CDC.gov/coronavirus has the latest public health and safety information from CDC and for the overarching medical and health provider community on COVID-19."</a></li>
@@ -71,6 +71,12 @@ permalink: COVID-19-for-professionals
         <li><a href="https://www.youtube.com/watch?v=6FBbjB1BMzk">YouTube - Private Practice Skills - Trying out Doxy: Free HIPAA Compliant Teletherapy Platform</a></li>
       </ul>
     </li>
+  </ul>
+
+  <h4>New Jersey COVID-19 Information Hub</h4>
+  <ul>
+    <li><a href="https://www.nj.gov/health/cd/topics/ncov.shtml">NJ Department of Health | Communicable Disease Service | COVID-19</a></li>
+    <li><a href="https://www.nj.gov/health/cd/topics/covid2019_professionals.shtml">COVID-19: Information for Public Health Professionals</a></li>
   </ul>
 
   <h4>News</h4>

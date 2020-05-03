@@ -49,21 +49,23 @@ permalink: COVID-19-for-patients
     <li><a href="http://www.healthdata.org/acting-data/our-covid-19-forecasting-model-otherwise-known-chris-murray-model">Additional reference on the IHME website regarding Dr. Deborah Birx (White House Coronavirus Response Coordinator) discussing IHME</a></li>
   </ul>
 
+  <h4>A fun and informative comic about COVID-19 modeling from FiveThirtyEight</h4>
+  <ul>
+    <li><a href="https://fivethirtyeight.com/features/a-comic-strip-tour-of-the-wild-world-of-pandemic-modeling/">A Comic Strip Tour Of The Wild World Of Pandemic Modeling</a></li>
+  </ul>
+
   <h4>New Jersey COVID-19 Information Hub</h4>
   <ul>
+    <li><a href="https://www.nj.gov/health/cd/topics/ncov.shtml">NJ Department of Health | Communicable Disease Service | COVID-19</a></li>
     <li><a href="https://covid19.nj.gov/#live-updates">Live Updates - Cases and Trends in NJ</a></li>
     <li><a href="https://www.state.nj.us/health/healthfacilities/documents/LTC_Facilities_Outbreaks_List.pdf">NJ Long Term Care Facilities with COVID-19 Cases - list of positive cases and deaths self-reported by facilities and subject to updates (PDF)</a></li>
   </ul>
+  <p>Please note: Some long-term care facilities have admitted large numbers of COVID-19-positive patients discharged from hospitals.</p>
 
   <h4>New Jersey Department of Human Services</h4>
   <ul>
     <li><a href="https://nj.gov/humanservices/coronavirus.html">Novel Coronavirus Information - updates regularly as new information is released</a></li>
     <li><a href="https://www.nj.gov/humanservices/ddd/documents/covid19-temporary-service-modifications.pdf">Developmental Disabilities | COVID-19 Response | Temporary Service Modifications | 4/9/2020 (PDF)</a></li>
-  </ul>
-
-  <h4>A fun and informative comic about COVID-19 modeling from FiveThirtyEight</h4>
-  <ul>
-    <li><a href="https://fivethirtyeight.com/features/a-comic-strip-tour-of-the-wild-world-of-pandemic-modeling/">A Comic Strip Tour Of The Wild World Of Pandemic Modeling</a></li>
   </ul>
 
   <h4>Browse safely!</h4>
