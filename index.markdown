@@ -37,12 +37,12 @@ layout: default
     <ul>
     <li>Mount Sinai Medical Center, Transitional Internship, 1982 - 1983</li>
     <li>Beth Israel Medical Center, Internal Medicine, 1985 - 1987</li>
-    <li>Long Island Jewish Medical Center, Obstetrics and Radiology, 1983 - 1985</li>
+    <li>Long Island Jewish Medical Center, Obstetrics & Gynecology, 1983 - 1985</li>
     </ul>
 
     <h4>FELLOWSHIP</h4>
     <ul>
-    <li>Mount Sinai Bronx Veterans Hospital, Gastroenterology, 1987 - 1989</li>
+    <li>Mount Sinai at Bronx VA Medical Center, Gastroenterology, 1987 - 1989</li>
     </ul>
 
     <h4>BOARD CERTIFICATIONS</h4>
