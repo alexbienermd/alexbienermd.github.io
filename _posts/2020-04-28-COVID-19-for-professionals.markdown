@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "COVID-19 RESOURCES FOR PROFESSIONALS"
-date:   2020-04-28 12:00:00 -0400
+date:   2020-05-06 12:00:01 -0400
 categories: COVID-19
 permalink: COVID-19-for-professionals
 ---
@@ -15,9 +15,10 @@ permalink: COVID-19-for-professionals
   <h4>Current best COVID-19 information for healthcare professionals<br> from the Centers for Disease Control and Prevention (CDC)</h4>
   <ul>
     <li><a href="https://www.cdc.gov/coronavirus/2019-nCoV/hcp/index.html">CDC - Information for Healthcare Professionals about Coronavirus (COVID-19)</a></li>
+    <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html">CDC - Coronavirus Disease 2019 (COVID-19)</a></li>
   </ul>
 
-  <h4>Series of YouTube videos by Ninja Nerd Science or: how to have fun yet understand the novel coronavirus</h4>
+  <h4>Series of informative YouTube videos by Ninja Nerd Science or: how to have fun yet understand the novel coronavirus</h4>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=PWzbArPgo-o">COVID-19 | Coronavirus: Epidemiology, Pathophysiology, Diagnostics (3/16/2020)</a></li>
     <li><a href="https://www.youtube.com/watch?v=rdoN_XsHWBI">COVID-19 | Coronavirus: Treatment, Prognosis, Precautions (3/18/2020)</a></li>
@@ -36,7 +37,7 @@ permalink: COVID-19-for-professionals
     </ul>
   </ul>
 
-  <h4>Telemedicine Resources</h4>
+  <h4>Telemedicine resources</h4>
   <p>Telemedicine has been greatly expanded in the wake of the Coronavirus pandemic, greatly widening the scope of reimbursable services and options for communications. Below are listed some key resources.</p>
   <ul>
     <li>
@@ -77,17 +78,23 @@ permalink: COVID-19-for-professionals
   <ul>
     <li><a href="https://www.nj.gov/health/cd/topics/ncov.shtml">NJ Department of Health | Communicable Disease Service | COVID-19</a></li>
     <li><a href="https://www.nj.gov/health/cd/topics/covid2019_professionals.shtml">COVID-19: Information for Public Health Professionals</a></li>
+    <li><a href="https://covid19.nj.gov/NJfaqs">Interactive "frequently asked questions" site -- type in questions to receive answers and information about the coronavirus, including NJ-specific answers (e.g., type in, "test sites") (updates frequently)</a></li>
+    <li>
+      <ul class="sublist">
+        <h4>New Jersey Department of Health (NJDOH)</h4>
+        <ul>
+          <li><a href="https://nj.gov/health/lh/documents/LocalHealthDirectory.pdf">NJDOH - Printable directory of local health departments in NJ</a></li>
+          <li><a href="https://nj.gov/health/lh/community/index.shtml">NJDOH - Interactive map to help you find your local health department in NJ</a></li>
+        </ul>
+      </ul>
+    </li>
   </ul>
 
-  <h4>News</h4>
+  <h4>Home visits</h4>
   <ul>
-    <li><a href="https://www.cms.gov/newsroom/press-releases/cms-announces-findings-kirkland-nursing-home-and-new-targeted-plan-healthcare-facility-inspections">COVID-19 devastates long term care facilities (3/23/2020)</a></li>
-    <li><a href="https://www.jpost.com/international/israeli-doctor-in-italy-we-no-longer-help-those-over-60-621856">Israeli doctor in Italy: No. of patients rises but we get to everyone (3/29/2020)</a></li>
-  </ul>
-
-  <h4>Mobile Physicians Group (MPG)</h4>
-  <ul>
-    <li><a href="http://www.mpgdocs.com"> MPG - Website to set up physician house calls in southern New Jersey</a></li>
+    <li><a href="https://www.dispatchhealth.com/">DispatchHealth | Urgent House Calls -- Partnered with Valley Health</a><p>Dispatch Health phone number: 201-882-7527 <br>Valley Hospital’s three roving ambulances can visit a patient's home with a nurse practitioner or physician assistant to treat minor lesser emergencies (e.g., heart failure with IV diuretics, dehydration with IV fluids, wounds, and bruises). This is a highly professional and reliable service I have used dozens of times, whose personnel stay in touch with me and send synopses of their visits to me soon after completion.</p></li>
+    <li><a href="https://synergyhealthadvisors.com/">Synergy Health Advisors - Offers medically directed COVID-19 at-home concurrent testing (nasopharyngeal swab and blood antibody test) for $75</a></li>
+    <li><a href="http://www.mpgdocs.com"> Mobile Physicians Group - Website to set up physician house calls in southern New Jersey</a></li>
   </ul>
 
   <p class="disclaimer">The websites on this page are compiled for your convenience. Information on this website or any linked websites is not intended to substitute for medical advice from your primary care physician.</p>

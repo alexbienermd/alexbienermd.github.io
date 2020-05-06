@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "COVID-19 RESOURCES FOR PATIENTS"
-date:   2020-04-29 12:00:00 -0400
+date:   2020-05-06 12:00:02 -0400
 categories: COVID-19
 permalink: COVID-19-for-patients
 ---
 
 <div class="post-header">
-  <h3>RESOURCES FOR COVID-19</h3>
+  <h3>COVID-19 RESOURCES FOR PATIENTS</h3>
 </div>
 
 <div class="post-container">
@@ -49,18 +49,23 @@ permalink: COVID-19-for-patients
     <li><a href="http://www.healthdata.org/acting-data/our-covid-19-forecasting-model-otherwise-known-chris-murray-model">Additional reference on the IHME website regarding Dr. Deborah Birx (White House Coronavirus Response Coordinator) discussing IHME</a></li>
   </ul>
 
-  <h4>A fun and informative comic about COVID-19 modeling from FiveThirtyEight</h4>
-  <ul>
-    <li><a href="https://fivethirtyeight.com/features/a-comic-strip-tour-of-the-wild-world-of-pandemic-modeling/">A Comic Strip Tour Of The Wild World Of Pandemic Modeling</a></li>
-  </ul>
 
   <h4>New Jersey COVID-19 Information Hub</h4>
   <ul>
     <li><a href="https://www.nj.gov/health/cd/topics/ncov.shtml">NJ Department of Health | Communicable Disease Service | COVID-19</a></li>
+    <li><a href="https://covid19.nj.gov/NJfaqs">Interactive "frequently asked questions" site -- type in questions to receive answers and information about the coronavirus, including NJ-specific answers (e.g., type in, "test sites") (updates frequently)</a></li>
     <li><a href="https://covid19.nj.gov/#live-updates">Live Updates - Cases and Trends in NJ</a></li>
-    <li><a href="https://www.state.nj.us/health/healthfacilities/documents/LTC_Facilities_Outbreaks_List.pdf">NJ Long Term Care Facilities with COVID-19 Cases - list of positive cases and deaths self-reported by facilities and subject to updates (PDF)</a></li>
+    <li><a href="https://www.state.nj.us/health/healthfacilities/documents/LTC_Facilities_Outbreaks_List.pdf">NJ Long Term Care Facilities with COVID-19 Cases - list of positive cases and deaths self-reported by facilities and subject to updates (PDF)</a><p>Please note: Some long-term care facilities have admitted large numbers of COVID-19-positive patients discharged from hospitals.</p></li>
+    <li>
+      <ul class="sublist">
+        <h4>New Jersey Department of Health (NJDOH)</h4>
+        <ul>
+          <li><a href="https://nj.gov/health/lh/documents/LocalHealthDirectory.pdf">NJDOH - Printable directory of local health departments in NJ</a></li>
+          <li><a href="https://nj.gov/health/lh/community/index.shtml">NJDOH - Interactive map to help you find your local health department in NJ</a></li>
+        </ul>
+      </ul>
+    </li>
   </ul>
-  <p>Please note: Some long-term care facilities have admitted large numbers of COVID-19-positive patients discharged from hospitals.</p>
 
   <h4>New Jersey Department of Human Services</h4>
   <ul>
