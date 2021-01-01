@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "COVID-19 RESOURCES FOR PROFESSIONALS"
+title:  "COVID-19 RESOURCES FOR HEALTHCARE PROFESSIONALS"
 date:   2020-05-06 12:00:01 -0400
 categories: COVID-19
 permalink: COVID-19-for-professionals
@@ -11,6 +11,14 @@ permalink: COVID-19-for-professionals
 </div>
 
 <div class="post-container">
+
+  <h4>COVID vaccination apointments — information to help <u>category 1A healthcare workers</u> locate and schedule their own COVID vaccinations during CDC phase 1A (through the end of January 2021)</h4>
+  <ul>
+    <li><a href="https://drive.google.com/file/d/1qs4QEquSKadEyPNNEKvrwj6z4IQteAnO/">List of locations in NJ where category 1A healthcare workers can make an appointment to receive COVID vaccinations (<u>ONLY FOR CATEGORY 1A HEALTHCARE WORKERS through the end of January 2021</u>)</a> <p>Please note that this link should only be used by healthcare workers. During phase 1A, vaccination sites will verify that you are a healthcare worker before administering the vaccine, and appropriate documentation will be required.</p></li>
+    <li><a href="https://www.rivervalenj.org/CivicAlerts.aspx?AID=314">Information from the Township of River Vale about the vaccine administration schedule and phases required by the CDC</a></li>
+    <li><a href="https://www.newbridgehealth.org/bergencounty-phase1a-vaccine/">Update from Bergen New Bridge Medical Center about scheduling COVID vaccines for category 1A healthcare workers</a></li>
+    <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html">Information about COVID-19 vaccines from the CDC</a></li>
+  </ul>
 
   <h4>Current best COVID-19 information for healthcare professionals<br> from the Centers for Disease Control and Prevention (CDC)</h4>
   <ul>
