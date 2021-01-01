@@ -14,11 +14,10 @@ permalink: COVID-19-for-patients
 
   <h4>Information about COVID-19 vaccines</h4>
   <ul>
-    <li><p>To all our patients:<br>
-Coronavirus vaccines are here, and they are relatively very safe and very effective.<br>
-I urge all my patients to take them whether you had coronavirus or not, and I invite any questions you may have.<br>
+    <li><p>Coronavirus vaccines are here, and they are relatively very safe and very effective.<br>
+I urge all my patients to take them whether you had coronavirus or not, and I <a href="https://www.alexbienermd.com/#contact">invite any questions you may have</a>.<br>
 Those of my patients who have been told to purchase Epi-Pens for allergic reactions should <a href="https://www.alexbienermd.com/#contact">talk to me first</a>.</p></li>
-    <li><a href="https://www.rivervalenj.org/CivicAlerts.aspx?AID=314">Information from the Township of River Vale about the vaccine administration schedule and phases required by the CDC</a></li>
+    <li><a href="https://www.rivervalenj.org/CivicAlerts.aspx?AID=314">Information from the Township of River Vale to its residents about the vaccine administration schedule and phases required by the CDC</a></li>
     <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html">Information about COVID-19 vaccines from the CDC</a></li>
   </ul>
 
