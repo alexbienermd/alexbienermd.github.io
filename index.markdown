@@ -7,7 +7,7 @@ layout: default
 <div class="covid-alert-frontpage">
   <p><u>To all our patients:</u></p>
   <p>Coronavirus vaccines are here, and they are relatively very safe and very effective.</p>
-  <p>I urge all my patients to take them whether you had coronavirus or not, and I invite any questions you may have.</p>
+  <p>I urge all my patients to take them whether you had coronavirus or not, and I <a href="https://www.alexbienermd.com/#contact">invite any questions you may have</a>.</p>
   <p>Those of my patients who have been told to purchase epinephrine autoinjectors (EpiPens) for allergic reactions should <a href="https://www.alexbienermd.com/#contact">talk to me first</a>.</p>
   <p><a href="https://www.alexbienermd.com/COVID-19-for-patients">Patients, please click here for more information.</a></p>
   <p><a href="https://www.alexbienermd.com/COVID-19-for-healthcare-professionals">Healthcare professionals, please click here for more information.</a></p>
