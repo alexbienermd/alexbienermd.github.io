@@ -7,7 +7,7 @@ permalink: COVID-19-for-healthcare-professionals
 ---
 
 <div class="post-header">
-  <h3>COVID-19 RESOURCES FOR PROFESSIONALS</h3>
+  <h3>COVID-19 RESOURCES FOR HEALTHCARE PROFESSIONALS</h3>
 </div>
 
 <div class="post-container">
