@@ -76,12 +76,13 @@ layout: default
   </div>
 
   <div class="contact-content">
-    <h4>PHONE</h4>
+    <h4>OFFICE PHONE NUMBER</h4>
     <ul>
-      <li>Call to make an appointment: <a href="tel:+1-201-505-9595">(201) 505-9595</a></li>
+      <li><a href="tel:+1-201-505-9595">(201) 505-9595</a></li>
+      <li>Please call this number to make an appointment.</li>
     </ul>
 
-    <h4>ADDRESS</h4>
+    <h4>OFFICE ADDRESS</h4>
     <ul>
       <li>595 Chestnut Ridge Rd</li>
       <li>Woodcliff Lake, NJ 07677</li>
