@@ -78,7 +78,7 @@ layout: default
   <div class="contact-content">
     <h4>PHONE</h4>
     <ul>
-      <li>201-505-9595</li>
+      <li>Call to make an appointment: <a href="tel:+1-201-505-9595">(201) 505-9595</a></li>
     </ul>
 
     <h4>ADDRESS</h4>
