@@ -17,8 +17,11 @@ permalink: COVID-19-for-patients
     <li><p>Coronavirus vaccines are here, and they are relatively very safe and very effective.<br>
 I urge all my patients to take them whether you had coronavirus or not, and I invite any questions you may have.<br>
 Those of my patients who have been told to purchase Epi-Pens for allergic reactions should talk to me first.<br><a href="https://www.alexbienermd.com/#contact">(Click here to contact me.)</a></p></li>
-    <li><a href="https://www.rivervalenj.org/CivicAlerts.aspx?AID=314">Information from the Township of River Vale to its residents about the vaccine administration schedule and phases required by the CDC</a></li>
-    <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html">Information about COVID-19 vaccines from the CDC</a></li>
+    <li><a href="https://www.rivervalenj.org/380/COVID-19-Coronavirus-Information">Information from the Township of River Vale to its residents about the coronavirus</a></li>
+    <li><a href="https://www.co.bergen.nj.us/health-promotion/2019-novel-corona-virus">Information from Bergen County to its residents about the coronavirus</a></li>
+    <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html">Information from the CDC about COVID-19 vaccines</a></li>
+    <li><a href="https://www.youtube.com/watch?v=RI_blmMGrSM">An excellent video from local physician Dr. Michal Tracz: COVID Vaccine — a Guide for the Hesitant (January 3, 2021)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=DUDQvp3zRmc">Another excellent video from Dr. Tracz: COVID Vaccine Q&A (February 1, 2021)</a></li>
   </ul>
 
   <h4>Current best COVID-19 information from the<br>Centers for Disease Control and Prevention (CDC)</h4>
@@ -28,7 +31,8 @@ Those of my patients who have been told to purchase Epi-Pens for allergic reacti
 
   <h4>Here are some good, quick videos summarizing COVID-19</h4>
   <ul>
-    <li><a href="https://www.youtube.com/watch?v=LH-8zhCgxtQ">Excellent summary of COVID-19 situation as of 3/5/2020 by local physician Dr. Michal Tracz</a></li>
+    <li><a href="https://www.youtube.com/watch?v=HD7Nv-m6OQ0">An excellent, updated video from local physician Dr. Michal Tracz: COVID Management Update. When to stay home, when to head for the ER. (December 6, 2020) </a></li>
+    <li><a href="https://www.youtube.com/watch?v=LH-8zhCgxtQ">Excellent summary of COVID-19 situation as of 3/5/2020 by Dr. Tracz</a></li>
     <li>
       <ul class="sublist">
         <h4>Websites mentioned in Dr. Tracz’s 3/5/10 video:</h4>
