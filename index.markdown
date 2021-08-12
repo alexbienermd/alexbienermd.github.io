@@ -4,6 +4,12 @@ layout: default
 
 <a class="anchor" id="home"></a>
 
+<div class="patient-intake-form-alert-frontpage">
+  <p><u>Download our patient intake form:</u></p>
+  <p>Below is a link to our patient intake form. All new patients should download and fill this document before coming to their appointment. Please fill either fill this form electronically and email it back to us at alex@alexbienermd.com (preferred method) or fill the form and print it to bring to your appointment.</p>
+  <p><a href="https://drive.google.com/file/d/1m8ioJLwBfpZpaHa3OFRLJTiqbQhBO3sU/">Click here to download a fillable patient intake form.</a></p>
+</div>
+
 <div class="covid-alert-frontpage">
   <p><u>To all our patients:</u></p>
   <p>Coronavirus vaccines are here, and they are relatively very safe and very effective.</p>

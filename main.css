@@ -141,6 +141,21 @@ h3 {
 	margin-top: .5em;
 }
 
+.patient-intake-form-alert-frontpage {
+  background: #fff;
+  border: 1rem solid #77ff00;
+  border-radius: 1.5rem;
+  font-size: larger;
+  line-height: 1.3em;
+  margin: 0 0 1.5em;
+  padding: 1em;
+  text-align: center;
+}
+
+.patient-intake-form-alert-frontpage p ~ p {
+	margin-top: .5em;
+}
+
 .header {
   background-color: #f0faff;
   display: flex;
