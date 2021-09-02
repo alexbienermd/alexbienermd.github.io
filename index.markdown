@@ -16,9 +16,9 @@ layout: default
   <p>Coronavirus vaccines and boosters are here, and they are very safe and effective.</p>
   <p>I urge all my patients to <em>take them whether or not you have had coronavirus</em>, and I invite any questions you may have.</p>
   <p>Those of my patients who have been told to purchase epinephrine autoinjectors (EpiPens) for allergic reactions should talk to me first.</p>
-  <p><a href="/#contact">→ Click here to contact me with additional questions. ←</a></p>
   <p><a href="/COVID-19-for-patients">→ Patients, please click here for more information about COVID-19 vaccinations and booster shots. ←</a></p>
   <p><a href="/COVID-19-for-healthcare-professionals">→ Healthcare professionals, please click here for more information about COVID-19 vaccinations and booster shots. ←</a></p>
+  <p><a href="/#contact">→ Click here to contact me with additional questions. ←</a></p>
 </div>
 
 <div class="home container">
