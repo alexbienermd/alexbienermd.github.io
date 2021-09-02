@@ -4,13 +4,6 @@ layout: default
 
 <a class="anchor" id="home"></a>
 
-<div class="patient-intake-form-alert-frontpage">
-  <p><u>Download our patient intake form:</u></p>
-  <p>Below is a link to our patient intake form. All new patients should download and fill this document before coming to their appointment.</p>
-  <p>Please either fill this form electronically and email it back to us at <a href="mailto:jrooney@sovms.com">jrooney@sovms.com</a> (preferred method) or fill the form and print it to bring to your appointment.</p>
-  <p><a href="https://drive.google.com/file/d/1m8ioJLwBfpZpaHa3OFRLJTiqbQhBO3sU/">→ Click here to download a fillable patient intake form. ←</a></p>
-</div>
-
 <div class="covid-alert-frontpage">
   <p><u>Do you have questions about COVID vaccines and boosters?</u></p>
   <p>Coronavirus vaccines and boosters are here, and they are very safe and effective.</p>
@@ -19,6 +12,13 @@ layout: default
   <p><a href="/COVID-19-for-patients">→ Patients, please click here for more information about COVID-19 vaccinations and booster shots. ←</a></p>
   <p><a href="/COVID-19-for-healthcare-professionals">→ Healthcare professionals, please click here for more information about COVID-19 vaccinations and booster shots. ←</a></p>
   <p><a href="/#contact">→ Click here to contact me with additional questions. ←</a></p>
+</div>
+
+<div class="patient-intake-form-alert-frontpage">
+  <p><u>Download our patient intake form:</u></p>
+  <p>Below is a link to our patient intake form. All new patients should download and fill this document before coming to their appointment.</p>
+  <p>Please either fill this form electronically and email it back to us at <a href="mailto:jrooney@sovms.com">jrooney@sovms.com</a> (preferred method) or fill the form and print it to bring to your appointment.</p>
+  <p><a href="https://drive.google.com/file/d/1m8ioJLwBfpZpaHa3OFRLJTiqbQhBO3sU/">→ Click here to download a fillable patient intake form. ←</a></p>
 </div>
 
 <div class="home container">
@@ -83,6 +83,23 @@ layout: default
   </div>
 
   <div class="contact-content">
+
+  <h4>OFFICE HOURS</h4>
+
+  <p>
+  Monday 9:00 AM - 5:00 PM<br>
+  Tuesday 9:00 AM - 5:00 PM<br>
+  Thursday 9:00 AM - 5:00 PM<br>
+  <br>
+  Please note that these hours are subject to change.<br>
+  We kindly ask for your patience, as the practice is operating with limited staff at this time.<br>
+  Please direct all calls to our office phone number (see below).<br>
+  Dr. Biener's personal cell phone is intended for emergency and healthcare provider use only.<br>
+  If you are experiencing a true emergency, call 911.<br><br>
+  </p>
+
+
+
     <h4>OFFICE PHONE NUMBER</h4>
     <ul>
       <li><a href="tel:+1-201-505-9595">(201) 505-9595</a></li>
