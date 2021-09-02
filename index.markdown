@@ -8,17 +8,17 @@ layout: default
   <p><u>Download our patient intake form:</u></p>
   <p>Below is a link to our patient intake form. All new patients should download and fill this document before coming to their appointment.</p>
   <p>Please either fill this form electronically and email it back to us at <a href="mailto:jrooney@sovms.com">jrooney@sovms.com</a> (preferred method) or fill the form and print it to bring to your appointment.</p>
-  <p><a href="https://drive.google.com/file/d/1m8ioJLwBfpZpaHa3OFRLJTiqbQhBO3sU/">Click here to download a fillable patient intake form.</a></p>
+  <p><a href="https://drive.google.com/file/d/1m8ioJLwBfpZpaHa3OFRLJTiqbQhBO3sU/">→ Click here to download a fillable patient intake form. ←</a></p>
 </div>
 
 <div class="covid-alert-frontpage">
-  <p><u>To all our patients:</u></p>
-  <p>Coronavirus vaccines are here, and they are relatively very safe and very effective.</p>
-  <p>I urge all my patients to take them whether you had coronavirus or not, and I invite any questions you may have.</p>
+  <p><u>Do you have questions about COVID vaccines and boosters?</u></p>
+  <p>Coronavirus vaccines and boosters are here, and they are very safe and effective.</p>
+  <p>I urge all my patients to take them whether or not you have had coronavirus, and I invite any questions you may have.</p>
   <p>Those of my patients who have been told to purchase epinephrine autoinjectors (EpiPens) for allergic reactions should talk to me first.</p>
-  <p><a href="https://www.alexbienermd.com/#contact">(Click here to contact me.)</a></p>
-  <p><a href="https://www.alexbienermd.com/COVID-19-for-patients">Patients, please click here for more information.</a></p>
-  <p><a href="https://www.alexbienermd.com/COVID-19-for-healthcare-professionals">Healthcare professionals, please click here for more information.</a></p>
+  <p><a href="/#contact">→ Click here to contact me. ←</a></p>
+  <p><a href="/COVID-19-for-patients">→ Patients, please click here for more information about COVID-19 vaccinations and booster shots. ←</a></p>
+  <p><a href="/COVID-19-for-healthcare-professionals">→ Healthcare professionals, please click here for more information about COVID-19 vaccinations and booster shots. ←</a></p>
 </div>
 
 <div class="home container">

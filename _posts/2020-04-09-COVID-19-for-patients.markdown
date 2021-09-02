@@ -14,12 +14,13 @@ permalink: COVID-19-for-patients
 
   <h4>Information about COVID-19 vaccines</h4>
   <ul>
-    <li><p>Coronavirus vaccines are here, and they are relatively very safe and very effective.<br>
-I urge all my patients to take them whether you had coronavirus or not, and I invite any questions you may have.<br>
+    <li><p>Coronavirus vaccines and boosters are here, and they are very safe effective.<br>
+I urge all my patients to take them whether or not you have had coronavirus, and I invite any questions you may have.<br>
 Those of my patients who have been told to purchase Epi-Pens for allergic reactions should talk to me first.<br><a href="https://www.alexbienermd.com/#contact">(Click here to contact me.)</a></p></li>
+    <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/booster-shot.html">Information from the CDC about <em>booster shots</em> for the COVID-19 vaccine</a></li>
+    <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html">Information from the CDC about COVID-19 vaccines</a></li>
     <li><a href="https://www.rivervalenj.org/380/COVID-19-Coronavirus-Information">Information from the Township of River Vale to its residents about the coronavirus</a></li>
     <li><a href="https://www.co.bergen.nj.us/health-promotion/2019-novel-corona-virus">Information from Bergen County to its residents about the coronavirus</a></li>
-    <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html">Information from the CDC about COVID-19 vaccines</a></li>
     <li><a href="https://www.youtube.com/watch?v=RI_blmMGrSM">An excellent video from local physician Dr. Michal Tracz: COVID Vaccine — a Guide for the Hesitant (January 3, 2021)</a></li>
     <li><a href="https://www.youtube.com/watch?v=DUDQvp3zRmc">Another excellent video from Dr. Tracz: COVID Vaccine Q&A (February 1, 2021)</a></li>
   </ul>
