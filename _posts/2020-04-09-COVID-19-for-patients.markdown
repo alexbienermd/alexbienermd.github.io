@@ -23,6 +23,7 @@ Those of my patients who have been told to purchase Epi-Pens for allergic reacti
     <li><a href="https://www.co.bergen.nj.us/health-promotion/2019-novel-corona-virus">Information from Bergen County to its residents about the coronavirus</a></li>
     <li><a href="https://www.youtube.com/watch?v=RI_blmMGrSM">An excellent video from local physician Dr. Michal Tracz: COVID Vaccine — a Guide for the Hesitant (January 3, 2021)</a></li>
     <li><a href="https://www.youtube.com/watch?v=DUDQvp3zRmc">Another excellent video from Dr. Tracz: COVID Vaccine Q&A (February 1, 2021)</a></li>
+    <li><a href="https://docs.google.com/presentation/d/1-34O8lnBPe7kZwvYgBWs3R2-Cj8BUNDits1ybMRBGGM/edit?usp=sharing">Slideshow with information about COVID-19 vaccines by medical student Madeleine Daly</a></li>
   </ul>
 
   <h4>Current best COVID-19 information from the<br>Centers for Disease Control and Prevention (CDC)</h4>
