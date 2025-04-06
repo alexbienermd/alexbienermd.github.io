@@ -109,7 +109,7 @@ img {
 }
 
 h1 {
-  font-size: 6.25vw;
+  font-size: 4.25vw;
 }
 
 h2 {
@@ -524,7 +524,7 @@ h3 {
   }
 
   .header-titles h1 {
-    font-size: 9vw;
+    font-size: 8vw;
     left: 4vw;
     top: 9vw;
   }

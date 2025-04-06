@@ -4,7 +4,7 @@ layout: default
 
 <a class="anchor" id="home"></a>
 
-<div class="covid-alert-frontpage">
+<!-- <div class="covid-alert-frontpage">
   <p><u>Do you have questions about COVID vaccines and boosters?</u></p>
   <p>Coronavirus vaccines and boosters are here, and they are very safe and effective.</p>
   <p>I urge all my patients to <em>take them whether or not you have had coronavirus</em>, and I invite any questions you may have.</p>
@@ -19,10 +19,10 @@ layout: default
   <p>Below is a link to our patient intake form. All new patients should download and fill this document before coming to their appointment.</p>
   <p>Please either fill this form electronically and email it back to us at <a href="mailto:jrooney@sovms.com">jrooney@sovms.com</a> (preferred method) or fill the form and print it to bring to your appointment.</p>
   <p><a href="https://drive.google.com/file/d/1m8ioJLwBfpZpaHa3OFRLJTiqbQhBO3sU/">→ Click here to download a fillable patient intake form. ←</a></p>
-</div>
 
+</div> -->
 <div class="home container">
-  <img src="./Alexander-Biener.png" alt="Dr. Alex Biener, MD">
+  <img src="./Alexander-Biener.png" alt="Alex Biener, MD">
 </div>
 
 <a class="anchor" id="about"></a>
@@ -87,12 +87,12 @@ layout: default
   <h4>OFFICE HOURS</h4>
 
   <p>
-  Monday 9:00 AM - 5:00 PM<br>
   Tuesday 9:00 AM - 5:00 PM<br>
-  Thursday 9:00 AM - 5:00 PM<br>
+  Wednesday 9:00 AM - 5:00 PM<br>
+  Thursday 9:00 AM - 8:00 PM<br>
   <br>
   Please note that these hours are subject to change.<br>
-  We kindly ask for your patience, as the practice is operating with limited staff at this time.<br>
+  <!-- We kindly ask for your patience, as the practice is operating with limited staff at this time.<br> -->
   Please direct all calls to our office phone number (see below).<br>
   Dr. Biener's personal cell phone is intended for emergency and healthcare provider use only.<br>
   If you are experiencing a true emergency, call 911.<br><br>
@@ -103,7 +103,7 @@ layout: default
     <h4>OFFICE PHONE NUMBER</h4>
     <ul>
       <li><a href="tel:+1-201-505-9595">(201) 505-9595</a></li>
-      <li>Please call this number to make an appointment.</li>
+      <li>To our current patients: please call this number to make an appointment.</li>
     </ul>
 
     <h4>OFFICE ADDRESS</h4>
